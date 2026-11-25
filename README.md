@@ -1,4 +1,4 @@
-<a name="readme-top"></a>  
+<a name="readme-top"></a>
 
 <div align="center">
   <img src="./assets/logo.jpg" alt="Logo" width="200">
